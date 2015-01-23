@@ -1,4 +1,4 @@
-# [Download]()
+# [Download](https://github.com/iest/Panic-Palette-Sublime/releases/download/1.0/Archive.zip)
 
 ## Panic Palette for iTerm
 
